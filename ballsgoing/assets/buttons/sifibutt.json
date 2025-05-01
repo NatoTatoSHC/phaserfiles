@@ -1,0 +1,11 @@
+{
+    "frames":{
+        "play":{
+            "frame":{"x":78, "y":494, "w":248, "h":107},
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{"x":0, "y":0, "w":248, "h":107},
+            "sourceSize":{"w":248, "h":107}
+        }
+    }
+}
